@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#coussinet {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0%;
+    width: 100%;
+}
+
+#coussinet img {
+    width: 7%;
+    cursor: pointer;
+}
+
+#manga {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 3%; */
+}
+
+.nav {
+    transition: transform 0.1s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background: none;
+}
+
+.nav img {
+    width: 90px;
+    cursor: pointer;
+}
+
+
+.nav:hover {
+    transform: scale(1.2);
+}
+
+#cover {
+    width: 53%;
+}
+
+#precedent {
+    display: none;
+}
