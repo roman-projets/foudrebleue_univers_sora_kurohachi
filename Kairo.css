@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+#nom {
+    color: azure;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 72px;
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    cursor: pointer;
+    width: max-content;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 2%;
+}
+
+#title {
+    display: flex;
+    justify-content: center;
+}
+
+#card {
+    width: 100%;
+}
+
+#coussinet {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0%;
+}
+
+#coussinet img {
+    width: 7%;
+    cursor: pointer;
+}

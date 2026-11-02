@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(255, 0, 0, 0.559);
+}
+
+#image {
+    width: 25%;
+}
+
+h1 {
+    text-decoration: underline;
+    text-decoration-color: rgba(255, 0, 0, 0.700);
+}
+
+.nom {
+    font-size: 300px;
+    color: white;
+    font-size: bold;
+}

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 112 110">
+
+  <g fill="red">
+
+    <!-- Coussinet principal -->
+    <path d="M 19,79
+             L 16,90
+             L 24,100
+             L 40,100
+             L 66,109
+             L 76,99
+             L 76,92
+             L 68,72
+             L 62,64
+             L 56,61
+             L 45,61
+             Z"/>
+
+    <!-- Coussinet haut droit -->
+    <path d="M 99,57
+             L 95,56
+             L 88,57
+             L 80,64
+             L 77,71
+             L 77,78
+             L 81,83
+             L 89,84
+             L 95,80
+             L 101,69
+             Z"/>
+
+    <!-- Coussinet gauche -->
+    <path d="M 17,37
+             L 11,43
+             L 10,58
+             L 16,66
+             L 20,67
+             L 25,65
+             L 29,59
+             L 29,45
+             L 27,41
+             L 21,37
+             Z"/>
+
+    <!-- Coussinet haut centre -->
+    <path d="M 79,24
+             L 73,26
+             L 64,37
+             L 62,47
+             L 64,53
+             L 67,56
+             L 72,57
+             L 78,55
+             L 85,46
+             L 86,32
+             L 82,26
+             Z"/>
+
+    <!-- Coussinet haut gauche -->
+    <path d="M 50,17
+             L 45,17
+             L 42,19
+             L 35,29
+             L 34,34
+             L 35,45
+             L 40,50
+             L 43,51
+             L 48,50
+             L 55,43
+             L 57,30
+             L 55,23
+             Z"/>
+
+  </g>
+</svg>
