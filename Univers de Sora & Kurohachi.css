@@ -97,3 +97,33 @@ body {
 .story:hover {
     transform: scale(1.1);
 }
+
+
+@media screen and (max-width: 768px) {
+    #contenu {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 5%;
+        margin-right: 5%;
+        /* align-items: center; */
+    }
+
+    .persos img {
+        width: 480%;
+        height: auto;
+    }
+
+    .persos p {
+        margin-left: 385%;
+    }
+
+    .deucième_bloc {
+        width: 480%;
+        height: auto;
+    }
+
+    #titre {
+        font-size: 50px
+    }
+}
