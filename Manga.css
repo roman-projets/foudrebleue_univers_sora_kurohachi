@@ -1,6 +1,7 @@
 body {
     background-color: black;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -21,7 +22,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* margin-top: 3%; */
 }
 
 .nav {
@@ -49,4 +49,21 @@ body {
 
 #precedent {
     display: none;
+}
+
+@media screen and (max-width: 768px) {
+    #manga {
+        flex-direction: column;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    #cover {
+        width: 110%;
+    }
+
+    .nav {
+        width: 50%;
+    }
+
 }
