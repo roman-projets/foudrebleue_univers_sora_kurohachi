@@ -19,7 +19,7 @@ function lecture() {
     }
 
     else if (etat === 2) {
-        pages.src = "Ch 1 Sc 1.jpg";
+        pages.src = "Ch 1 Sc 1.JPG";
         pages.style.width = "41%";
         etat = 3;
     }
