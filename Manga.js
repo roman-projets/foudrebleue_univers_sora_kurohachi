@@ -63,11 +63,6 @@ function lecture() {
         pages.style.width = "57%";
         etat = 11;
     }
-    else if (etat === 10) {
-        pages.src = "Ch 1 Sc 9.jpg"
-        pages.style.width = "57%";
-        etat = 11;
-    }
     else if (etat === 11) {
         pages.src = "Ch 1 Sc 10.jpg"
         pages.style.width = "41%";
