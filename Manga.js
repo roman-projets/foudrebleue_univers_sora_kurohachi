@@ -64,7 +64,7 @@ function lecture() {
         etat = 11;
     }
     else if (etat === 11) {
-        pages.src = "Ch 1 Sc 10.jpg"
+        pages.src = "Ch 1 Sc 10.JPG"
         pages.style.width = "41%";
         etat = 12;
     }
@@ -74,7 +74,7 @@ function lecture() {
         etat = 13;
     }
     else if (etat === 13) {
-        pages.src = "Ch 1 Sc 12.jpg"
+        pages.src = "Ch 1 Sc 12.JPG"
         pages.style.width = "41%";
         etat = 14;
     }
@@ -109,7 +109,7 @@ function re_lecture() {
         etat = 15;
     }
     else if (etat === 15) {
-        pages.src = "Ch 1 Sc 12.jpg"
+        pages.src = "Ch 1 Sc 12.JPG"
         pages.style.width = "41%";
         etat = 14;
     }
@@ -119,7 +119,7 @@ function re_lecture() {
         etat = 13;
     }
     else if (etat === 13) {
-        pages.src = "Ch 1 Sc 10.jpg"
+        pages.src = "Ch 1 Sc 10.JPG"
         pages.style.width = "41%";
         etat = 12;
     }
@@ -164,7 +164,7 @@ function re_lecture() {
         etat = 4;
     }
     else if (etat === 4) {
-        pages.src = "Ch 1 Sc 1.jpg";
+        pages.src = "Ch 1 Sc 1.JPG";
         pages.style.width = "41%";
         etat = 3;
     }
